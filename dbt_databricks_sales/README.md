@@ -1,15 +1,7 @@
-Welcome to your new dbt project!
+# dbt_databricks_sales
 
-### Using the starter project
+This folder contains the dbt project used in the `dbt-databricks-practice` repository.
 
-Try running the following commands:
-- dbt run
-- dbt test
+For setup instructions, profile configuration, practice goals, and recommended dbt commands, see the repository README:
 
-
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+- [`../README.md`](../README.md)
