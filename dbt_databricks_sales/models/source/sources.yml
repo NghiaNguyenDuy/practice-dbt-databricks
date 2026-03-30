@@ -1,0 +1,19 @@
+version: 1
+
+sources:
+  - name: s_source
+    database: ctg_sales_dev
+    schema: s_source
+    tables:
+      - name: fact_sales
+        description: "This is the fact_sales table in the source system."
+      - name: fact_returns
+        description: "This is the fact_returns table in the source system."
+      - name: dim_date
+        description: "This is the dim_date table in the source system."
+      - name: dim_product
+        description: "This is the dim_product table in the source system."
+      - name: dim_customer
+        description: "This is the dim_customer table in the source system."
+      - name: dim_store
+        description: "This is the dim_store table in the source system."
